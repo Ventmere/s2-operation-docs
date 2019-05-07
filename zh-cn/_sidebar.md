@@ -1,0 +1,6 @@
+- [概述](/zh-cn/)
+- [产品管理](/zh-cn/product/)
+  - [同步产品数据](/zh-cn/product/sync)
+- [库存管理](/zh-cn/inventory/)
+  - [库存变化](/zh-cn/inventory/inventory-event)
+  - [Overview - 库存概况](/zh-cn/inventory/overview)
